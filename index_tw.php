@@ -6,7 +6,7 @@
   <title>Document</title>
   <link rel="stylesheet" href="style.css">
 
-  <link rel="stylesheet" href="vendor/swipermin.css">
+  <link rel="stylesheet" href="css/swipermin.css">
 </head>
 <style>
   html,body{
@@ -115,7 +115,7 @@
     </div>
   </section>
 </body>
-<script src="vendor/swipermin.js"></script>
+<script src="js/swipermin.js"></script>
 <script>
   var swiper = new Swiper('.swiper-container', {
     spaceBetween: 0,
