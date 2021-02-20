@@ -32,7 +32,7 @@
       <li><a href="https://huayuanteahouse.shopstore.tw">購物</a></li>
       <li><a href="#Contact">聯絡</a></li>
       <li>
-        <img src="img/index_first/lang.svg" alt="">
+        <img src="img/index_first/earth.svg" alt="">
         <ul>
           <li><a href="index_tw.php">繁體中文</a></li>
           <li><a href="index_ch.php">简体中文</a></li>
