@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>華園茶莊 | HuaYuan TeaHouse</title>
   <link rel="stylesheet" href="style.css">
 
   <link rel="stylesheet" href="css/swipermin.css">
@@ -24,18 +24,18 @@
 </style>
 <body>
   <section class="First_header">
-    <a href="index.php"><img src="img/index_first/logo.png" style="width: 40px; margin-right: 1vw;">華園茶莊 | HuaYuan TeaHouse</a>
+    <a href="#homepage"><img src="img/index_first/logo.png" style="width: 80px; margin-right: 1vw;"></a>
     <ul class="First_links">
-      <li><a href="#">首頁</a></li>
+      <li><a href="#homepage">首頁</a></li>
       <li><a href="#Brand">品牌</a></li>
       <li><a href="#Location">據點</a></li>
-      <li><a href="">購物</a></li>
+      <li><a href="https://huayuanteahouse.shopstore.tw">購物</a></li>
       <li><a href="#Contact">聯絡</a></li>
       <li>
         <img src="img/index_first/lang.svg" alt="">
         <ul>
           <li><a href="index_tw.php">繁體中文</a></li>
-          <li><a href="index_ch.php">簡體中文</a></li>
+          <li><a href="index_ch.php">简体中文</a></li>
         </ul>
       </li>
     </ul>
@@ -95,12 +95,18 @@
         <span>NTD $300</span>
       </div>
     </div> -->
+    <div class="index_body" id="homepage">
+    <div class="index_content">
+      <span>華園茶行</span>
+      <span>Hua Yuan Tea House</span>
+      <span>Since 1982</span>
+    </div>
+  </div>
+
     <div class="First_Brand" id="Brand">
       <div class="First_Brand_Title" data-aos="fade-up">《品牌 | About Us》</div>
-      <div class="First_Brand_content" data-aos="fade-up">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem dolores ab iusto at, odit repudiandae veritatis quo. Ullam facilis, magnam placeat quo quasi fuga molestias, quas laudantium qui rem ratione?
-      Dicta optio magnam, autem illo aperiam veniam perferendis voluptatum repudiandae doloremque architecto, reiciendis, nulla voluptas ducimus fugiat eum eos rem. Quos temporibus atque mollitia beatae quibusdam! Porro dolores totam quibusdam.
-      Nesciunt velit perspiciatis laudantium eum officiis? Repellendus quisquam adipisci assumenda! Tempora blanditiis ipsam a tenetur! Explicabo, quaerat! Reprehenderit maxime nesciunt tenetur expedita, commodi nostrum suscipit tempora repudiandae. Veniam, eos aperiam.
-      Eveniet, ex vitae debitis ab quam quibusdam reprehenderit nam ducimus, beatae ipsum laborum expedita quisquam temporibus, tenetur aliquid voluptas explicabo quas aut aperiam non! Quos esse ad iusto iure! Ab?</div>
+      <div class="First_Brand_content" data-aos="fade-up">
+</div>
     </div>
     <div class="swiper-container" data-aos="fade-up">
       <div class="swiper-wrapper">
